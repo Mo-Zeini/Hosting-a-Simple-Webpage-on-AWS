@@ -18,14 +18,24 @@ The project files are organized as follows:
 
 ```
 Project/
+├── 01-Research-and-Development/
+│   ├── Useful_Articles.pdf
+├── 02-Conception-Phase/
+│   ├── Elzeini-Mohamed_102303120_Cloud Programming_P1_S.pdf
+├── 03-Development-Phase/
+│   ├── Elzeini-Mohamed_102303120_Cloud Programming_P2_S.pdf
+├── 04-Final-Phase/
+│   ├── Final_Phase.pdf
+│   ├── Abstract.pdf
 ├── Terraform_Script/
-│   ├── main.tf               # Primary Terraform configuration file.
+│   ├── Terraform_Script_main.tf      # Primary Terraform configuration file.
 ├── Static_Website_Files/
-│   ├── index.html            # Main webpage content.
-│   ├── imgs/                 # Folder containing image assets.
+│   ├── index.html                    # Main webpage content.
+│   ├── imgs/                         # Folder containing image assets.
 ├── Architecture_Diagram/     
-│   ├── Diagram.png           # Diagram illustrating the cloud architecture.
-├── README.md                 # Project documentation.
+│   ├── Diagram.png                   # Diagram illustrating the cloud architecture.
+├── README.md                         # Project documentation.
+├── LICENSE.txt                       # Project MIT license.
 ```
 
 ---

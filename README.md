@@ -20,16 +20,12 @@ The project files are organized as follows:
 Project/
 ├── Terraform_Files/
 │   ├── main.tf               # Primary Terraform configuration file.
-│   ├── variables.tf          # Variables for flexibility and reusability.
-│   ├── outputs.tf            # Outputs for key information.
-│   ├── terraform.tfvars      # Values for defined variables (optional).
-├── Static_Content/
+├── Static_Website_Files/
 │   ├── index.html            # Main webpage content.
 │   ├── imgs/                 # Folder containing image assets.
 ├── Architecture_Diagram/     
-│   ├── diagram.png           # Diagram illustrating the cloud architecture.
+│   ├── Diagram.png           # Diagram illustrating the cloud architecture.
 ├── README.md                 # Project documentation.
-├── Testing_Screenshots/      # Screenshots showing test results.
 ```
 
 ---
@@ -47,13 +43,13 @@ Project/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/Hosting-a-Simple-Webpage-on-AWS.git
+   git clone https://github.com/Mo-Zeini/Hosting-a-Simple-Webpage-on-AWS.git
    cd Hosting-a-Simple-Webpage-on-AWS
    ```
 
 2. **Navigate to Terraform Directory**:
    ```bash
-   cd Terraform_Files
+   cd Terraform_Script
    ```
 
 3. **Initialize Terraform**:

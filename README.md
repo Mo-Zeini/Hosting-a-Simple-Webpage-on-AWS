@@ -18,7 +18,7 @@ The project files are organized as follows:
 
 ```
 Project/
-├── Terraform_Files/
+├── Terraform_Script/
 │   ├── main.tf               # Primary Terraform configuration file.
 ├── Static_Website_Files/
 │   ├── index.html            # Main webpage content.
